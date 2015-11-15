@@ -1,0 +1,46 @@
+<html>
+<head>
+</head>
+<body>
+<div class="dv-how-it-works__row">
+        <div id="dv-how-it-works-carousel" class="slick-initialized slick-slider">
+            <div aria-live="polite" class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1002px; transform: translate3d(0px, 0px, 0px);" role="listbox"><div class="slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" tabindex="0" role="option" aria-describedby="slick-slide20" style="width: 334px;">
+                <img src="https://static1.dogvacay.com/pug/img/common/art/browse-8-1.png" data-src="https://static1.dogvacay.com/pug/img/common/art/browse-8-1.png" alt="" class="dv-how-it-works__item-image lazy-loaded">
+                <div class="dv-how-it-works__step">
+                    <span class="dv-how-it-works__step__num">1</span>
+                </div>
+                <div class="dv-how-it-works__title">
+                    <span class="dv-how-it-works__title__num">1 </span><h3>BROWSE SITTERS</h3>
+                </div>
+                <div class="dv-how-it-works__sub-title">
+                    near you
+                </div>
+            </div><div class="slick-slide slick-active" data-slick-index="1" aria-hidden="false" tabindex="0" role="option" aria-describedby="slick-slide21" style="width: 334px;">
+                <img src="https://static1.dogvacay.com/pug/img/common/art/book-8-1.png" data-src="https://static1.dogvacay.com/pug/img/common/art/book-8-1.png" alt="" class="dv-how-it-works__item-image lazy-loaded">
+                <div class="dv-how-it-works__step">
+                    <span class="dv-how-it-works__step__num">2</span>
+                </div>
+                <div class="dv-how-it-works__title">
+                    <span class="dv-how-it-works__title__num">2</span><h3>BOOK AND PAY</h3>
+                </div>
+                <div class="dv-how-it-works__sub-title">
+                    all online
+                </div>
+            </div><div class="slick-slide slick-active" data-slick-index="2" aria-hidden="false" tabindex="0" role="option" aria-describedby="slick-slide22" style="width: 334px;">
+                <img src="https://static1.dogvacay.com/pug/img/common/art/board-8-1.png" data-src="https://static1.dogvacay.com/pug/img/common/art/board-8-1.png" alt="" class="dv-how-it-works__item-image lazy-loaded">
+                <div class="dv-how-it-works__step">
+                    <span class="dv-how-it-works__step__num">3</span>
+                </div>
+                <div class="dv-how-it-works__title">
+                    <span class="dv-how-it-works__title__num">3 </span><h3>YOUR BEST FRIEND ENJOYS</h3>
+                </div>
+                <div class="dv-how-it-works__sub-title">
+                    loving, cage-free care
+                </div>
+            </div></div></div>
+            
+            
+        </div>
+    </div>
+	</body>
+	</html>
